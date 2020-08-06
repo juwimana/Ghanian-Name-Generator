@@ -1,0 +1,9 @@
+C:\Users\jeanm\source\repos\Ghanian_Name\Ghanian_Name\bin\Debug\Ghanian_Name.exe.config
+C:\Users\jeanm\source\repos\Ghanian_Name\Ghanian_Name\bin\Debug\Ghanian_Name.exe
+C:\Users\jeanm\source\repos\Ghanian_Name\Ghanian_Name\bin\Debug\Ghanian_Name.pdb
+C:\Users\jeanm\source\repos\Ghanian_Name\Ghanian_Name\obj\Debug\Ghanian_Name.csprojAssemblyReference.cache
+C:\Users\jeanm\source\repos\Ghanian_Name\Ghanian_Name\obj\Debug\Ghanian_Name.Form1.resources
+C:\Users\jeanm\source\repos\Ghanian_Name\Ghanian_Name\obj\Debug\Ghanian_Name.Properties.Resources.resources
+C:\Users\jeanm\source\repos\Ghanian_Name\Ghanian_Name\obj\Debug\Ghanian_Name.csproj.GenerateResource.cache
+C:\Users\jeanm\source\repos\Ghanian_Name\Ghanian_Name\obj\Debug\Ghanian_Name.exe
+C:\Users\jeanm\source\repos\Ghanian_Name\Ghanian_Name\obj\Debug\Ghanian_Name.pdb
